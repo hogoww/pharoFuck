@@ -1,16 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "Error",
 	"category" : "PharoFuck",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"codeStream",
-		"memorySpace",
-		"index",
-		"memorySize"
-	],
-	"name" : "PFMemory",
+	"instvars" : [ ],
+	"name" : "MemoryUnderflow",
 	"type" : "normal"
 }
