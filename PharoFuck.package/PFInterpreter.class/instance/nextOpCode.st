@@ -1,0 +1,3 @@
+interpreter
+nextOpCode
+	^ memory nextOpCode

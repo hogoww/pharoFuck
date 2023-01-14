@@ -1,0 +1,3 @@
+interpreter
+interpret
+	^ self interpretLoop 
