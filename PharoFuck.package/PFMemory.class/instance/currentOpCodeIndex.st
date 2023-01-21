@@ -1,0 +1,3 @@
+interpreter
+currentOpCodeIndex
+	^ codeStream position
